@@ -57,3 +57,12 @@ Branch: branch1\
 
 ### 13. Создание ветки для отчета
 ![изображение](https://github.com/Kaelesty/ideal-dollop/assets/74826130/a9606110-8a28-4052-a6a2-968567dc4d86)
+
+
+### 14. Создание отчета
+![изображение](https://github.com/Kaelesty/ideal-dollop/assets/74826130/664b3d1d-135f-40c4-b58d-2480385748a2)
+
+### 15. История операций
+![изображение](https://github.com/Kaelesty/ideal-dollop/assets/74826130/439dec34-f172-4b26-b412-6838bd9ddd2d)
+![изображение](https://github.com/Kaelesty/ideal-dollop/assets/74826130/49d5184d-cf33-46fe-96db-70aaa6692cfb)
+![изображение](https://github.com/Kaelesty/ideal-dollop/assets/74826130/b7d76cb4-bab7-4b35-950a-cac5b26cac44)
