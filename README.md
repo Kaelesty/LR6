@@ -66,3 +66,7 @@ Branch: branch1\
 ![изображение](https://github.com/Kaelesty/ideal-dollop/assets/74826130/439dec34-f172-4b26-b412-6838bd9ddd2d)
 ![изображение](https://github.com/Kaelesty/ideal-dollop/assets/74826130/49d5184d-cf33-46fe-96db-70aaa6692cfb)
 ![изображение](https://github.com/Kaelesty/ideal-dollop/assets/74826130/b7d76cb4-bab7-4b35-950a-cac5b26cac44)
+
+### 16. Загрузка изменений в удаленный репозиторий
+![изображение](https://github.com/Kaelesty/ideal-dollop/assets/74826130/d265858e-df95-4591-a75a-e6377d22ded4)
+![изображение](https://github.com/Kaelesty/ideal-dollop/assets/74826130/a817bfc3-3115-4c5b-9a75-2bab89edc61a)
